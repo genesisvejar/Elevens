@@ -12,7 +12,6 @@ using CardDeck;
 + GetACard() : Card;
 + ReplaceCards(List <int>) : void;
 + IsBoardEmpty() : bool;
-+ 
 
 
 */
